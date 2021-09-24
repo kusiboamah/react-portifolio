@@ -17,6 +17,7 @@ const TitleStyled = styled.div`
         font-weight: 600;
         text-transform: uppercase;
         position: relative;
+        padding-bottom: 0.5rem;
         &::before {
             content: "";
             position: absolute;
